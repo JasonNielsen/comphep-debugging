@@ -1,5 +1,7 @@
 import nimpy
 
+file = open("foo.txt")
+
 list = [0.1]
 s1 = list[2]
 
